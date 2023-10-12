@@ -1,2 +1,2 @@
 # BootStrap-WebSite
-## simple Static Travel website  
+## Simple Static Travel website  
